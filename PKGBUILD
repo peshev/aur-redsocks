@@ -4,10 +4,10 @@
 # Submitter: fluffylime <fluffylime@gmail.com>
 
 pkgname=redsocks-git
-pkgver=0.5.r7.g5df6a30
-pkgrel=2
+pkgver=0.5.r11.g19b822e
+pkgrel=1
 pkgdesc='Transparent redirector of any TCP connection to proxy using your firewall'
-arch=('i686' 'x86_64')
+arch=('i686' 'x86_64' 'armv7h')
 url='http://darkk.net.ru/redsocks/'
 license=('Apache')
 depends=('libevent')
